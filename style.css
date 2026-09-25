@@ -904,6 +904,11 @@ nav ul li a:hover {
     text-align: justify;
 }
 
+.article-text a
+{
+    all:revert;
+}
+
 .article-img {
     width: 100%; 
     height: auto;
